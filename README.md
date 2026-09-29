@@ -14,7 +14,8 @@ Each writeup records what the level asked, what I tried (including what failed),
 | 3 → 4 | Hidden files | [level-03](levels/level-03.md) | ✅ |
 | 4 → 5 | Finding the only human-readable file | [level-04](levels/level-04.md) | ✅ |
 | 5 → 6 | `find` with size and permission filters, hidden files | [level-05](levels/level-05.md) | ✅ |
-| 6 → 7 | `find` across the whole server by owner, group and size | — | 🔄 in progress |
+| 6 → 7 | `find` across the whole server by owner, group and size, `2>/dev/null` | [level-06](levels/level-06.md) | ✅ |
+| 7 → 8 | — | — | 🔄 in progress |
 
 ## Spoiler policy
 
