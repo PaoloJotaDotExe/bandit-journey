@@ -16,7 +16,8 @@ Each writeup records what the level asked, what I tried (including what failed),
 | 5 → 6 | `find` with size and permission filters, hidden files | [level-05](levels/level-05.md) | ✅ |
 | 6 → 7 | `find` across the whole server by owner, group and size, `2>/dev/null` | [level-06](levels/level-06.md) | ✅ |
 | 7 → 8 | Searching a huge file with `grep` | [level-07](levels/level-07.md) | ✅ |
-| 8 → 9 | — | — | 🔄 in progress |
+| 8 → 9 | The only unique line: `sort` + `uniq` | [level-08](levels/level-08.md) | ✅ |
+| 9 → 10 | — | — | 🔄 in progress |
 
 ## Spoiler policy
 
