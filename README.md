@@ -18,7 +18,8 @@ Each writeup records what the level asked, what I tried (including what failed),
 | 7 → 8 | Searching a huge file with `grep` | [level-07](levels/level-07.md) | ✅ |
 | 8 → 9 | The only unique line: `sort` + `uniq` | [level-08](levels/level-08.md) | ✅ |
 | 9 → 10 | Readable text in a binary: `strings` + `grep` | [level-09](levels/level-09.md) | ✅ |
-| 10 → 11 | — | — | 🔄 in progress |
+| 10 → 11 | Decoding Base64 | [level-10](levels/level-10.md) | ✅ |
+| 11 → 12 | — | — | 🔄 in progress |
 
 ## Spoiler policy
 
